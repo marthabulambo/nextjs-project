@@ -21,10 +21,8 @@ export default function Home() {
         <Values />
         <Programs />
         <Impact />
-        <CTA />
-      </main>
-      <Footer />
-
-    </>
+       </main>
+       </>
   );
-}
+} 
+    

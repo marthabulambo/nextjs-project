@@ -28,19 +28,8 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/get-involved"
-              className="bg-orange-500 hover:bg-orange-600 px-6 py-3 rounded-md font-semibold transition"
-            >
-              Get Involved →
-            </Link>
-
-            <Link
-              href="/about"
-              className="border border-white hover:bg-white hover:text-black px-6 py-3 rounded-md font-semibold transition"
-            >
-              Learn More
-            </Link>
+           
+           
           </div>
         </div>
       </div>

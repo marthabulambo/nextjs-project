@@ -5,7 +5,6 @@ import Mission from "./components/mission";
 import Values from "./components/values";
 import Programs from "./components/programs";
 import Impact from "./components/impact";
-import CTA from "./components/CTA";
 import Footer from "./components/footer";
 //import Footer from "./components/footer";
 //import CTA from "./components/CTA";

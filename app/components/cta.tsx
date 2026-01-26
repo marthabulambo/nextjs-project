@@ -24,14 +24,14 @@ export default function CTA() {
       {/* Buttons */}
       <div className="flex justify-center gap-4">
         <Link
-          href="/get-involved"
+          href="/"
           className="bg-orange-500 hover:bg-orange-600 px-6 py-3 rounded-md font-semibold transition"
         >
           Volunteer With Us
         </Link>
 
         <Link
-          href="/contact"
+          href="/"
           className="border border-white px-6 py-3 rounded-md font-semibold hover:bg-white hover:text-green-800 transition"
         >
           Contact Us

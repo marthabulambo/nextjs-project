@@ -5,11 +5,11 @@ import { useState, useEffect } from "react";
 
 const navLinks = [
   { name: "Home", href: "/" },
-  { name: "About Us", href: "/about" },
-  { name: "Programs", href: "/programs" },
-  { name: "Get Involved", href: "/get-involved" },
-  { name: "News & Impact", href: "/news" },
-  { name: "Contact", href: "/contact" },
+  { name: "About Us", href: "#" },
+  { name: "Programs", href: "#" },
+  { name: "Get Involved", href: "#" },
+  { name: "News & Impact", href: "#" },
+  { name: "Contact", href: "#" },
 ];
 
 export default function Header() {

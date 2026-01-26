@@ -2,17 +2,17 @@ import Link from "next/link";
 
 const quickLinks = [
     { name: "Home", href: "/" },
-    { name: "About Us", href: "/about" },
-    { name: "Programs", href: "/programs" },
-    { name: "Get Involved", href: "/get-involved" },
-    { name: "News & Impact", href: "/news" },
-    { name: "Contact", href: "/contact" },
+    { name: "About Us", href: "#" },
+    { name: "Programs", href: "#" },
+    { name: "Get Involved", href: "#" },
+    { name: "News & Impact", href: "#" },
+    { name: "Contact", href: "#" },
 ];
 
 const programs = [
-    { name: "Education", href: "/programs#education" },
-    { name: "Health & Nutrition", href: "/programs#health" },
-    { name: "Community Empowerment", href: "/programs#empowerment" },
+    { name: "Education", href: "#" },
+    { name: "Health & Nutrition", href: "#" },
+    { name: "Community Empowerment", href: "#" },
 ];
 
 export default function Footer() {

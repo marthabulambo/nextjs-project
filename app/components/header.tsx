@@ -128,7 +128,7 @@ export default function Header() {
               </Link>
             ))}
             <Link
-              href="/get-involved"
+              href="/#"
               onClick={() => setIsOpen(false)}
               className="bg-accent-500 hover:bg-accent-600 text-white px-4 py-3 rounded-lg font-semibold transition-colors text-center mt-2"
             >

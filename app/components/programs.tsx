@@ -118,7 +118,7 @@ export default function Programs() {
                                 </ul>
 
                                 <Link
-                                    href="/programs"
+                                    href="#"
                                     className="inline-flex items-center gap-2 text-gray-900 font-semibold text-sm hover:gap-3 transition-all"
                                 >
                                     Learn More
